@@ -1,0 +1,17 @@
+{
+  "App": {
+    "Logo": "Logo",
+    "Nav": {
+      "Posts": "Články"
+    },
+    "Loading": "Načítání...",
+    "Save": "Uložit"
+  },
+  "Home": {
+    "Heading": "Nadpis"
+  },
+  "ErrorPage": {
+    "Heading": "Něco se pokazilo 😢",
+    "GoToHomePage": "Zpět na domovskou stránku"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "App": {
+    "Logo": "Logo",
+    "Nav": {
+      "Posts": "Posts"
+    },
+    "Loading": "Loading...",
+    "Save": "Save"
+  },
+  "Home": {
+    "Heading": "Heading"
+  },
+  "ErrorPage": {
+    "Heading": "Something went wrong 😢",
+    "GoToHomePage": "Go to homepage"
+  }
+}
